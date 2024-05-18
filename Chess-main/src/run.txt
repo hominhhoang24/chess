@@ -1,0 +1,1 @@
+ & c:/Users/Hoanggg/Downloads/Chess-main/.venv/Scripts/python.exe c:/Users/Hoanggg/Downloads/Chess-main/Chess-main/src/main.py
